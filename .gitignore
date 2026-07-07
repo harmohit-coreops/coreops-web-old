@@ -1,0 +1,11 @@
+# Full-page screenshots (~326MB) — NOT pushed to remote.
+# Regenerate anytime with: cd old-website-artifacts/scripts && node crawl.mjs full
+old-website-artifacts/screenshots/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Node / logs
+node_modules/
+*.log

@@ -1,0 +1,1067 @@
+{
+  "generatedFrom": "https://www.coreops.ai",
+  "mode": "full",
+  "total": 117,
+  "sitemapCount": 113,
+  "fonts": [
+    "https://www.coreops.ai/_next/static/media/HelveticaNeue-Thin.acf1c0d4.woff2",
+    "https://www.coreops.ai/_next/static/media/HelveticaNeue-Light.047adcc0.woff2",
+    "https://www.coreops.ai/_next/static/media/slick.653a4cbb.woff",
+    "https://www.coreops.ai/_next/static/media/helvetica-neue-regular-webfont.a22d5e3e.woff2"
+  ],
+  "pages": [
+    {
+      "url": "https://www.coreops.ai/",
+      "slug": "home",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CoreOps.AI | AI-Powered Enterprise Automation & AIOps Solutions",
+      "scrollHeight": 10394
+    },
+    {
+      "url": "https://www.coreops.ai/about",
+      "slug": "about",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "About CoreOps.AI | Vision, Mission & Leadership Team",
+      "scrollHeight": 9248
+    },
+    {
+      "url": "https://www.coreops.ai/aithra",
+      "slug": "aithra",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Aithra | Enterprise AI Chatbot Platform",
+      "scrollHeight": 5527
+    },
+    {
+      "url": "https://www.coreops.ai/brochures",
+      "slug": "brochures",
+      "ok": true,
+      "errors": [],
+      "status": 404,
+      "title": "CoreOps.AI | AI-Powered Enterprise Automation & AIOps Solutions",
+      "scrollHeight": 10394
+    },
+    {
+      "url": "https://www.coreops.ai/careers",
+      "slug": "careers",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Careers at CoreOps.AI - Build a Career in AIOps & AI Innovation",
+      "scrollHeight": 5518
+    },
+    {
+      "url": "https://www.coreops.ai/contact-us",
+      "slug": "contact-us",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Contact CoreOps.AI - Get in Touch",
+      "scrollHeight": 1747
+    },
+    {
+      "url": "https://www.coreops.ai/corehire",
+      "slug": "corehire",
+      "ok": true,
+      "errors": [],
+      "status": 404,
+      "title": "CoreOps.AI | AI-Powered Enterprise Automation & AIOps Solutions",
+      "scrollHeight": 10394
+    },
+    {
+      "url": "https://www.coreops.ai/coreops-ai-edge",
+      "slug": "coreops-ai-edge",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CoreOps AI Edge | Advanced Edge AI Solutions for Enterprises",
+      "scrollHeight": 7982
+    },
+    {
+      "url": "https://www.coreops.ai/enterprise-ai-services",
+      "slug": "enterprise-ai-services",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Enterprise AI Services - AI Integration for Modern Businesses",
+      "scrollHeight": 7815
+    },
+    {
+      "url": "https://www.coreops.ai/enterprise-application-services",
+      "slug": "enterprise-application-services",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Enterprise Application Services - SAP, CRM & ERP Modernization",
+      "scrollHeight": 8634
+    },
+    {
+      "url": "https://www.coreops.ai/mailer.html",
+      "slug": "mailer.html",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "2 Years of CoreOps.AI | AI Innovation & Enterprise Growth",
+      "scrollHeight": 5627
+    },
+    {
+      "url": "https://www.coreops.ai/press-release",
+      "slug": "press-release",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Press Release - Coreops",
+      "scrollHeight": 12495
+    },
+    {
+      "url": "https://www.coreops.ai/privacy-policy",
+      "slug": "privacy-policy",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Privacy Policy - CoreOps.AI",
+      "scrollHeight": 1412
+    },
+    {
+      "url": "https://www.coreops.ai/products/agentcore",
+      "slug": "products__agentcore",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "AgentCORE - AI Agents for ERP, CRM & Enterprise Systems",
+      "scrollHeight": 10175
+    },
+    {
+      "url": "https://www.coreops.ai/products/aithra",
+      "slug": "products__aithra",
+      "ok": true,
+      "errors": [],
+      "status": 404,
+      "title": "CoreOps.AI | AI-Powered Enterprise Automation & AIOps Solutions",
+      "scrollHeight": 10394
+    },
+    {
+      "url": "https://www.coreops.ai/products/corehire",
+      "slug": "products__corehire",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "COREHire – AI Recruitment Software for Smart Hiring | CoreOps.AI",
+      "scrollHeight": 5140
+    },
+    {
+      "url": "https://www.coreops.ai/products/coreserv",
+      "slug": "products__coreserv",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "COREServ | Cloud-Based Service Management System for Businesses",
+      "scrollHeight": 6339
+    },
+    {
+      "url": "https://www.coreops.ai/products/coresight",
+      "slug": "products__coresight",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CORESight - Generative AI-Powered Insights & Automation for SAP & BI",
+      "scrollHeight": 9143
+    },
+    {
+      "url": "https://www.coreops.ai/products/coretrack",
+      "slug": "products__coretrack",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CORETrack | Automate SAP Gate Entry & Exit for Warehouse Management System",
+      "scrollHeight": 6780
+    },
+    {
+      "url": "https://www.coreops.ai/products/datacore",
+      "slug": "products__datacore",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "DataCORE - AI-Driven Data Migration & ERP Data Transformation",
+      "scrollHeight": 8497
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub",
+      "slug": "resource-hub",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Resource Hub | Insights, Trends, Use Cases & Events | CoreOps",
+      "scrollHeight": 2544
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends",
+      "slug": "resource-hub__ai-trends",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "AI Trends | Emerging Technologies & Future Insights | CoreOps",
+      "scrollHeight": 2742
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends/4-ways-to-turn-control-functions-into-ai-accelerators",
+      "slug": "resource-hub__ai-trends__4-ways-to-turn-control-functions-into-ai-accelerators",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "4 Ways to turn control functions into AI accelerators - Coreops",
+      "scrollHeight": 2443
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends/9-benefits-of-artificial-intelligence-ai-in-2025",
+      "slug": "resource-hub__ai-trends__9-benefits-of-artificial-intelligence-ai-in-2025",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "9 Benefits of artificial intelligence (AI) in 2026 - Coreops",
+      "scrollHeight": 2413
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends/benefits-of-ai",
+      "slug": "resource-hub__ai-trends__benefits-of-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Benefits of AI - Coreops",
+      "scrollHeight": 2443
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends/how-cios-think-about-agentic-ai",
+      "slug": "resource-hub__ai-trends__how-cios-think-about-agentic-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "How CIOs think about agentic AI - Coreops",
+      "scrollHeight": 2467
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends/hr-the-hidden-accelerator-of-ai-adoption",
+      "slug": "resource-hub__ai-trends__hr-the-hidden-accelerator-of-ai-adoption",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "HR: The hidden accelerator of AI adoption - Coreops",
+      "scrollHeight": 2443
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends/the-next-innovation-revolution-powered-by-ai",
+      "slug": "resource-hub__ai-trends__the-next-innovation-revolution-powered-by-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "The next innovation revolution—powered by AI - Coreops",
+      "scrollHeight": 2443
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends/unlocking-hidden-value-a-new-approach-to-data-monetization-with-ai",
+      "slug": "resource-hub__ai-trends__unlocking-hidden-value-a-new-approach-to-data-monetization-with-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Unlocking hidden value: A new approach to data monetization with AI - Coreops",
+      "scrollHeight": 2413
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/ai-trends/ways-ai-can-improve-our-world",
+      "slug": "resource-hub__ai-trends__ways-ai-can-improve-our-world",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Ways AI can improve our world - Coreops",
+      "scrollHeight": 2443
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs",
+      "slug": "resource-hub__blogs",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Blogs | Latest Insights, Trends & Strategies | CoreOps",
+      "scrollHeight": 3654
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/accelerating-sap-s-4hana-data-migration-with-the-cockpit",
+      "slug": "resource-hub__blogs__accelerating-sap-s-4hana-data-migration-with-the-cockpit",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Accelerate SAP S/4HANA Data Migration Using the Migration Cockpit",
+      "scrollHeight": 5776
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/bridging-talent-gap-with-ai-recruiting-software",
+      "slug": "resource-hub__blogs__bridging-talent-gap-with-ai-recruiting-software",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Bridging the Talent Gap with CoreHire’s AI Recruiting Software | CoreOps.AI",
+      "scrollHeight": 4445
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/building-trust-in-genai-coreops-ais-commitment-to-responsible-enterprise-ai",
+      "slug": "resource-hub__blogs__building-trust-in-genai-coreops-ais-commitment-to-responsible-enterprise-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Building Trust in GenAI with CoreOps.AI | Responsible AI",
+      "scrollHeight": 5014
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/coreops-ai-wins-best-startup-2026",
+      "slug": "resource-hub__blogs__coreops-ai-wins-best-startup-2026",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CoreOps.AI Wins Best AI & Technology Startup 2026",
+      "scrollHeight": 3795
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/coresight-an-autonomous-ai-engine-for-data-to-decisions",
+      "slug": "resource-hub__blogs__coresight-an-autonomous-ai-engine-for-data-to-decisions",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CORESight: Autonomous AI Platform for Smarter Business Decisions",
+      "scrollHeight": 5819
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/data-migration-platforms-methods-and-best-practices",
+      "slug": "resource-hub__blogs__data-migration-platforms-methods-and-best-practices",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Best data migration platform and best practices guide",
+      "scrollHeight": 5660
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/erp-software-integration-with-ai",
+      "slug": "resource-hub__blogs__erp-software-integration-with-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "ERP Software Integration with AI - Real Challenges & Solutions | CoreOps.AI",
+      "scrollHeight": 3556
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/from-lead-generation-to-revenue-how-coreops-ai-maximizes-salesforce-sales-cloud-impact",
+      "slug": "resource-hub__blogs__from-lead-generation-to-revenue-how-coreops-ai-maximizes-salesforce-sales-cloud-impact",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Maximize Salesforce Sales Cloud ROI with CoreOps.AI | Lead to Revenue",
+      "scrollHeight": 5495
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/from-nurturing-a-startup-to-revolutionizing-hiring-with-corehire",
+      "slug": "resource-hub__blogs__from-nurturing-a-startup-to-revolutionizing-hiring-with-corehire",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Revolutionizing Recruitment with COREHire by CoreOps.AI",
+      "scrollHeight": 4009
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/revolutionizing-business-with-sap-btp-and-ai-core-a-coffee-break-chat-for-builders-architects-innovation-leaders",
+      "slug": "resource-hub__blogs__revolutionizing-business-with-sap-btp-and-ai-core-a-coffee-break-chat-for-builders-architects-innovation-leaders",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Powering Innovation with SAP BTP & AI Core | CoreOps.AI Insights",
+      "scrollHeight": 4236
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/the-dandelion-effect-a-new-era-of-ai",
+      "slug": "resource-hub__blogs__the-dandelion-effect-a-new-era-of-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "The Dandelion Effect: Unleashing Growth & Innovation with AI | CoreOps.AI",
+      "scrollHeight": 2850
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/the-making-of-coreops-ai",
+      "slug": "resource-hub__blogs__the-making-of-coreops-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CoreOps.AI Journey: Accelerating Enterprise AI Transformation & Innovation",
+      "scrollHeight": 3293
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/the-missing-layer-in-enterprise-tech-why-business-ai-is-the-future",
+      "slug": "resource-hub__blogs__the-missing-layer-in-enterprise-tech-why-business-ai-is-the-future",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "The scorching Gurgaon heat hasn’t stopped me from engaging with leaders...",
+      "scrollHeight": 2712
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/blogs/transforming-customer-service-with-sap-field-service-management-and-ai-powered-solutions-coreserv-by-coreops-ai",
+      "slug": "resource-hub__blogs__transforming-customer-service-with-sap-field-service-management-and-ai-powered-solutions-coreserv-by-coreops-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "AI-Powered SAP Field Service Management with COREServ by CoreOps.AI",
+      "scrollHeight": 6043
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories",
+      "slug": "resource-hub__customer-success-stories",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Customer Success Stories | AI Solutions in Action | CoreOps",
+      "scrollHeight": 2544
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories/ai-powered-acceleration-global-marketing-leaders-360-digital-shift-with-coreops-ai",
+      "slug": "resource-hub__customer-success-stories__ai-powered-acceleration-global-marketing-leaders-360-digital-shift-with-coreops-ai",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "AI-Powered Digital Shift: CoreOps.AI Boosts Marketing & UX Excellence",
+      "scrollHeight": 2418
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories/coreops-ai-enables-ai-powered-gst-reconciliation-for-big-4s-tax-transformation-2",
+      "slug": "resource-hub__customer-success-stories__coreops-ai-enables-ai-powered-gst-reconciliation-for-big-4s-tax-transformation-2",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "AI-Powered GST Reconciliation by CoreOps.AI for Big 4 Tax Transformation",
+      "scrollHeight": 2383
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories/coresight-transforms-inventory-optimisation-for-a-leading-agri-supply-chain",
+      "slug": "resource-hub__customer-success-stories__coresight-transforms-inventory-optimisation-for-a-leading-agri-supply-chain",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CORESight Inventory Optimisation for Leading Agri Supply Chain",
+      "scrollHeight": 2478
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories/coresight-uncovers-hidden-revenue-leaks-for-a-leading-electronics-brand",
+      "slug": "resource-hub__customer-success-stories__coresight-uncovers-hidden-revenue-leaks-for-a-leading-electronics-brand",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CORESight Uncovers Hidden Revenue Leaks for Top Electronics Brand",
+      "scrollHeight": 2503
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories/from-fragmented-to-future-ready-a-diversified-enterprise-engaged-in-real-estate-development-and-educations-cloud-driven-finance-overhaul-by-coreops-ai",
+      "slug": "resource-hub__customer-success-stories__from-fragmented-to-future-ready-a-diversified-enterprise-engaged-in-real-estate-development-and-educations-clo_50",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Unified Finance with SAP S/4HANA for Real Estate & Education Enterprise",
+      "scrollHeight": 2627
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories/from-stuck-to-streamlined-coreops-ai-unlocks-salesforce-value",
+      "slug": "resource-hub__customer-success-stories__from-stuck-to-streamlined-coreops-ai-unlocks-salesforce-value",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CoreOps.AI Boosts Synokem Salesforce with Pharma Expertise & Fast Fixes",
+      "scrollHeight": 2413
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories/one-of-the-fastest-growing-technology-advisor-chooses-coreops-ai-for-sap-system-assessment-to-enable-end-to-end-automation",
+      "slug": "resource-hub__customer-success-stories__one-of-the-fastest-growing-technology-advisor-chooses-coreops-ai-for-sap-system-assessment-to-enable-end-to-en_52",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CoreOps.AI Enables SAP Automation for iValue Infosolutions",
+      "scrollHeight": 2461
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-stories/semicon-manufacturer-scales-growth-with-coreops-ais-ai-powered-transformation",
+      "slug": "resource-hub__customer-success-stories__semicon-manufacturer-scales-growth-with-coreops-ais-ai-powered-transformation",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Semicon Manufacturer Boosts Growth with CoreOps.AI’s AI-Powered Transformation",
+      "scrollHeight": 2418
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/customer-success-story",
+      "slug": "resource-hub__customer-success-story",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Customer Success Stories | AI Solutions in Action | CoreOps",
+      "scrollHeight": 2544
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/events",
+      "slug": "resource-hub__events",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Events | Webinars, Conferences & Industry Insights | CoreOps",
+      "scrollHeight": 1803
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/events/ydma-in-partnership-with-coreops-ai-presented-an-exclusive-closed-door-session-on-ai-revolution-in-sap-modernisation",
+      "slug": "resource-hub__events__ydma-in-partnership-with-coreops-ai-presented-an-exclusive-closed-door-session-on-ai-revolution-in-sap-modernisation",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CoreOps.AI x YDMA CIO Roundtable: AI-Driven SAP & Enterprise Growth",
+      "scrollHeight": 2528
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases",
+      "slug": "resource-hub__press-releases",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Press Releases | Latest News & Announcements | CoreOps",
+      "scrollHeight": 8123
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/bharat-fast",
+      "slug": "resource-hub__press-releases__bharat-fast",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Bharat Fast - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/business-review",
+      "slug": "resource-hub__press-releases__business-review",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "BUSINESS REVIEW - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/business-today",
+      "slug": "resource-hub__press-releases__business-today",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "BUSINESS TODAY - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/bw-disrupt",
+      "slug": "resource-hub__press-releases__bw-disrupt",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "BW DISRUPT - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/ceo-vine",
+      "slug": "resource-hub__press-releases__ceo-vine",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CEO VINE - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/cio-axis",
+      "slug": "resource-hub__press-releases__cio-axis",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CIO AXIS - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/cio-insider",
+      "slug": "resource-hub__press-releases__cio-insider",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CIO INSIDER - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/ciol",
+      "slug": "resource-hub__press-releases__ciol",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CIOL - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/cnbc",
+      "slug": "resource-hub__press-releases__cnbc",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CNBC - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/communications-today",
+      "slug": "resource-hub__press-releases__communications-today",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Communications Today - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/crn",
+      "slug": "resource-hub__press-releases__crn",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CRN - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/cxo-digital-plus",
+      "slug": "resource-hub__press-releases__cxo-digital-plus",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CXO Digital Plus - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/cxo-today",
+      "slug": "resource-hub__press-releases__cxo-today",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "CXO TODAY - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/deccan-founders",
+      "slug": "resource-hub__press-releases__deccan-founders",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "DECCAN FOUNDERS - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/digital-terminal",
+      "slug": "resource-hub__press-releases__digital-terminal",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Digital Terminal - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/dq-channels",
+      "slug": "resource-hub__press-releases__dq-channels",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "DQ Channels - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/economic-times",
+      "slug": "resource-hub__press-releases__economic-times",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Economic Times - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/en-trackr",
+      "slug": "resource-hub__press-releases__en-trackr",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "EN Trackr - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/entrepreneur-india",
+      "slug": "resource-hub__press-releases__entrepreneur-india",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "ENTREPRENEUR INDIA - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/express-computer",
+      "slug": "resource-hub__press-releases__express-computer",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Express Computer - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/inc-42",
+      "slug": "resource-hub__press-releases__inc-42",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "INC 42 - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/india-technology-news",
+      "slug": "resource-hub__press-releases__india-technology-news",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "INDIA TECHNOLOGY NEWS - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/ipo-central",
+      "slug": "resource-hub__press-releases__ipo-central",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "IPO Central - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/ist-indian-startup-times",
+      "slug": "resource-hub__press-releases__ist-indian-startup-times",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "IST- Indian startup times - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/marca-money",
+      "slug": "resource-hub__press-releases__marca-money",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "MARCA MONEY - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/msn",
+      "slug": "resource-hub__press-releases__msn",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "MSN - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/online-and-you",
+      "slug": "resource-hub__press-releases__online-and-you",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Online and You - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/optum",
+      "slug": "resource-hub__press-releases__optum",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "OPTUM - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/passionate-in-marketing",
+      "slug": "resource-hub__press-releases__passionate-in-marketing",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Passionate in Marketing - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/silicon-india",
+      "slug": "resource-hub__press-releases__silicon-india",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Silicon India - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/sme-street",
+      "slug": "resource-hub__press-releases__sme-street",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "SME STREET - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/startup-news",
+      "slug": "resource-hub__press-releases__startup-news",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Startup News - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/startup-news-2",
+      "slug": "resource-hub__press-releases__startup-news-2",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "STARTUP NEWS - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/startup-success-stories",
+      "slug": "resource-hub__press-releases__startup-success-stories",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Startup Success Stories - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/startup-talky",
+      "slug": "resource-hub__press-releases__startup-talky",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "STARTUP TALKY - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/tech-circle",
+      "slug": "resource-hub__press-releases__tech-circle",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Tech Circle - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/tech-observer",
+      "slug": "resource-hub__press-releases__tech-observer",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "TECH OBSERVER - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/techno-developers-group",
+      "slug": "resource-hub__press-releases__techno-developers-group",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "TECHNO DEVELOPERS GROUP - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/the-economic-times",
+      "slug": "resource-hub__press-releases__the-economic-times",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "THE ECONOMIC TIMES - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/the-saas-news",
+      "slug": "resource-hub__press-releases__the-saas-news",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "THE SAAS NEWS - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/the-times-of-india",
+      "slug": "resource-hub__press-releases__the-times-of-india",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "The Times Of India - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/vccircle",
+      "slug": "resource-hub__press-releases__vccircle",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "VCCircle - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/view-stories",
+      "slug": "resource-hub__press-releases__view-stories",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "VIE STORIES - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/press-releases/your-story",
+      "slug": "resource-hub__press-releases__your-story",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Your Story - Coreops",
+      "scrollHeight": 2335
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases",
+      "slug": "resource-hub__use-cases",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Use Cases | Real-World Applications & Solutions | CoreOps",
+      "scrollHeight": 3210
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/ai-powered-knowledge-platform-decision-support-solution-for-hp-indias-consumer-field-sales-force",
+      "slug": "resource-hub__use-cases__ai-powered-knowledge-platform-decision-support-solution-for-hp-indias-consumer-field-sales-force",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "HP India Case Study | AI Knowledge Platform for Field Sales | CORESight",
+      "scrollHeight": 3824
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/ai-powered-reasoning-engine-for-fraud-detection-in-hps-affordability-offers",
+      "slug": "resource-hub__use-cases__ai-powered-reasoning-engine-for-fraud-detection-in-hps-affordability-offers",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "HP Case Study | AI Fraud Detection for Retail EMI Offers | CORESight",
+      "scrollHeight": 3902
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/aimlflow-use-case-implementing-mlops-for-an-ott-provider",
+      "slug": "resource-hub__use-cases__aimlflow-use-case-implementing-mlops-for-an-ott-provider",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Boost OTT Engagement by 30% | AIMLFlow MLOps Case Study",
+      "scrollHeight": 5846
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/autopartsco-predictive-maintenance-spare-part-planning-with-agentcore",
+      "slug": "resource-hub__use-cases__autopartsco-predictive-maintenance-spare-part-planning-with-agentcore",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "AutoPartsCo – Predictive maintenance & spare part planning with AgentCORE - Coreops",
+      "scrollHeight": 3460
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/consumer-goods-ai-powered-sales-insights-mkting-roi-optimization",
+      "slug": "resource-hub__use-cases__consumer-goods-ai-powered-sales-insights-mkting-roi-optimization",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Boost Marketing ROI by 30% | AI Sales Insights Case Study | CORESight",
+      "scrollHeight": 2531
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/consumer-goods-boosting-sales-with-ai-powered-financing-intelligence",
+      "slug": "resource-hub__use-cases__consumer-goods-boosting-sales-with-ai-powered-financing-intelligence",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Boost Sales Conversions by 90% | AI Retail Case Study | CORESight",
+      "scrollHeight": 2720
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/consumer-goods-fraud-prevention-in-emi-schemes",
+      "slug": "resource-hub__use-cases__consumer-goods-fraud-prevention-in-emi-schemes",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Prevent EMI Fraud & Save ₹6 Cr | AI Case Study | CORESight",
+      "scrollHeight": 2630
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/fertilizer-co-ai-driven-demand-forecasting-stock-rebalancing",
+      "slug": "resource-hub__use-cases__fertilizer-co-ai-driven-demand-forecasting-stock-rebalancing",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Cut Stockouts by 25% | AI Demand Forecasting Case Study | CORESight",
+      "scrollHeight": 2561
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/foreign-object-detection-using-computer-vision-for-a-leading-qsr",
+      "slug": "resource-hub__use-cases__foreign-object-detection-using-computer-vision-for-a-leading-qsr",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Foreign Object Detection in Dough Balls | Computer Vision for QSR",
+      "scrollHeight": 2488
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/healthcare-readmission-risk-prediction-resource-forecasting",
+      "slug": "resource-hub__use-cases__healthcare-readmission-risk-prediction-resource-forecasting",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Cut Hospital Readmissions by 40% | AI Case Study | CORESight",
+      "scrollHeight": 2531
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/pharmaco-demand-forecasting-promo-planning-with-agentcore",
+      "slug": "resource-hub__use-cases__pharmaco-demand-forecasting-promo-planning-with-agentcore",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "PharmaCo – Demand forecasting & promo planning with AgentCORE - Coreops",
+      "scrollHeight": 3290
+    },
+    {
+      "url": "https://www.coreops.ai/resource-hub/use-cases/retail-customer-churn-prediction-retention-planning-with-agentcore",
+      "slug": "resource-hub__use-cases__retail-customer-churn-prediction-retention-planning-with-agentcore",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Retail – Customer churn prediction and retention planning with AgentCORE - Coreops",
+      "scrollHeight": 3320
+    },
+    {
+      "url": "https://www.coreops.ai/sitemap",
+      "slug": "sitemap",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Sitemap | CoreOps.AI",
+      "scrollHeight": 1694
+    },
+    {
+      "url": "https://www.coreops.ai/terms-conditions",
+      "slug": "terms-conditions",
+      "ok": true,
+      "errors": [],
+      "status": 200,
+      "title": "Terms & Conditions - CoreOps.AI",
+      "scrollHeight": 1487
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "title": "2 Years of CoreOps.AI | AI Innovation & Enterprise Growth",
+    "description": "Discover CoreOps.AI’s 2-year journey of AI innovation, product launches, global partnerships, and enterprise automation driving scalable growth and transformation.",
+    "ogTitle": "",
+    "ogImage": "",
+    "h1": "",
+    "lang": "",
+    "viewportWidth": 1440,
+    "scrollHeight": 5627
+  },
+  "vars": {},
+  "headings": {
+    "h1": null,
+    "h2": null,
+    "h3": null,
+    "h4": null,
+    "h5": null,
+    "h6": null
+  },
+  "paragraph": null,
+  "buttons": [
+    {
+      "tag": "button",
+      "text": "Previous",
+      "fontFamily": "Arial",
+      "fontSize": "0px",
+      "fontWeight": "400",
+      "lineHeight": "0px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgba(0, 0, 0, 0)",
+      "backgroundColor": "rgb(242, 242, 242)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "50%"
+    },
+    {
+      "tag": "button",
+      "text": "Next",
+      "fontFamily": "Arial",
+      "fontSize": "0px",
+      "fontWeight": "400",
+      "lineHeight": "0px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgba(0, 0, 0, 0)",
+      "backgroundColor": "rgb(242, 242, 242)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "50%"
+    }
+  ],
+  "linkSample": {
+    "tag": "a",
+    "text": "",
+    "fontFamily": "Times",
+    "fontSize": "0px",
+    "fontWeight": "400",
+    "lineHeight": "0px",
+    "letterSpacing": "normal",
+    "textTransform": "none",
+    "color": "rgb(0, 0, 238)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "padding": "0px",
+    "borderRadius": "0px"
+  },
+  "containers": [],
+  "fonts": [
+    {
+      "family": "slick",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    }
+  ],
+  "bodyBg": "rgba(0, 0, 0, 0)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "fontFamilies": [
+    [
+      "Arial",
+      2
+    ],
+    [
+      "Times",
+      1
+    ]
+  ],
+  "colors": [
+    [
+      "rgba(0, 0, 0, 0)",
+      2
+    ],
+    [
+      "rgb(0, 0, 0)",
+      1
+    ]
+  ],
+  "backgrounds": [
+    [
+      "rgb(242, 242, 242)",
+      2
+    ]
+  ],
+  "fontSizes": [
+    [
+      "0px",
+      2
+    ],
+    [
+      "16px",
+      1
+    ]
+  ],
+  "fontWeights": [
+    [
+      "400",
+      3
+    ]
+  ],
+  "borderRadii": [
+    [
+      "6px",
+      12
+    ],
+    [
+      "50%",
+      2
+    ]
+  ],
+  "boxShadows": [],
+  "images": [
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_01.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 576
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_02.gif",
+      "alt": "",
+      "w": 750,
+      "h": 324
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_03.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 222
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_04.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 234
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_05.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 222
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_06.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 210
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_07.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 220
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_08.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 784
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_09.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 686
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_10.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 619
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/imgnw.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 127
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/4.png",
+      "alt": "",
+      "w": 1470,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/5.png",
+      "alt": "",
+      "w": 1469,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/1.png",
+      "alt": "",
+      "w": 1469,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/2.png",
+      "alt": "",
+      "w": 1470,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/3.png",
+      "alt": "",
+      "w": 1469,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/4.png",
+      "alt": "",
+      "w": 1470,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/5.png",
+      "alt": "",
+      "w": 1469,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/1.png",
+      "alt": "",
+      "w": 1469,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/2.png",
+      "alt": "",
+      "w": 1470,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/3.png",
+      "alt": "",
+      "w": 1469,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/4.png",
+      "alt": "",
+      "w": 1470,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/5.png",
+      "alt": "",
+      "w": 1469,
+      "h": 1102
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_11nw.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 390
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_12.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 398
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_13.jpg",
+      "alt": "",
+      "w": 750,
+      "h": 292
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_14.jpg",
+      "alt": "",
+      "w": 417,
+      "h": 60
+    },
+    {
+      "src": "https://backend.coreops.ai/mailer/img1_15.jpg",
+      "alt": "",
+      "w": 333,
+      "h": 60
+    }
+  ],
+  "navLinks": [],
+  "footerLinks": [],
+  "sectionCount": 0
+}

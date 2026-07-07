@@ -1,0 +1,112 @@
+URL: https://www.coreops.ai/resource-hub/use-cases/ai-powered-knowledge-platform-decision-support-solution-for-hp-indias-consumer-field-sales-force
+TITLE: HP India Case Study | AI Knowledge Platform for Field Sales | CORESight
+
+CoreOps.AI edge
+
+About
+
+Products
+
+Services
+
+Resource hub
+Contact us
+Enquire now
+AI-powered knowledge platform & decision support solution for HP India’s consumer field sales force
+1. Introduction & problem statement
+
+Consumer sales teams (In-store promoters, store managers, partners sales reps, etc) managing product sales often face delays in resolving consumer finance-related queries – from checking EMI eligibility to understanding partner scheme terms. These queries typically flow via emails, WhatsApp messages, or manual lookup, which is time consuming and inefficient.
+Given HP’s wide product range, multiple financing partners, and ever-evolving policy documents, there is a clear need for a conversational AI assistant trained on the knowledge bank of consumer financing offers and policies that can answer finance related queries instantly and accurately, reducing operational bottlenecks, accelerating sales cycle and increasing partner and consumer experience.
+
+Solution overview
+
+CORESight – text-based AI decision support assistant trained specifically on HP’s documentation and policies related to customer financing options.
+
+Key features:
+LLM-powered AI assistant: Contextualized on HP’s consumer financing SOPs, FAQs, and query logs.
+Web UI: Available on web interface for quick access by various teams.
+Partner-specific schemes: Contextual answers based on financing partner.
+Real-time resolution: Answers eligibility questions, SOP clarifications, scheme rules, escalation paths.
+Retrieval-Augmented Generation (RAG): Uses curated knowledge base to improve reliability.
+Feedback loop: Learns from user interactions to improve response quality.
+3. Core modules and technical features
+LLM integration: OpenAI/Gemma/Mistral-based models contextualized with HP finance domain.
+Prompt engineering: Finance-specific prompt design with fallback logic.
+Knowledge base: SOPs, FAQs, partner rules, finance workflows.
+Query logs & training data: Uses past WhatsApp/email/CRM queries to train model.
+Streamlit based web UI: Web UI for easy access.
+Role-based access: Secured login.
+Feedback module: Built-in thumbs-up/down for continuous learning.
+4. Requirements from HP
+A. Data inputs
+Partner guidelines.
+Internal SOPs & FAQs for product finance.
+WhatsApp/email/CRM query logs from past 6 months.
+Scheme approval rules (tenure, DP, eligibility, product type).
+B. Support
+SPOC from finance operations/training.
+Clarification sessions on edge-case queries.
+Escalation matrix for exceptions.
+5. Deliverable to HP
+CORESight: AI decision support assistant trained on consumer financing documentation for HP.
+Secure access via browser for users.
+Portal to upload policy and transactional data.
+Automated weekly report and monthly review.
+6. Commercial terms
+One-time set-up fees (includes model set-up, vector database creation, report format set-up): INR 12,00,000/-.
+Monthly fees: INR 4,30,000/- (includes weekly model enrichment).
+LLM usage fees: INR 250/- per user per month fixed for 6 months.
+GST extra.
+Price validity: 2 weeks.
+7. Implementation and system configuration period:
+One time set-up: 4-5 weeks from PO.
+Accuracy will improve as system gets enriched with data and feedback.
+Related posts
+AutoPartsCo – Predictive maintenance & spare part planning w...
+
+For manufacturers, unplanned downtime is the enemy of efficiency.
+
+ 
+Read more
+PharmaCo – Demand forecasting & promo planning with AgentCOR...
+
+In a highly competitive pharma market, accurate demand planning...
+
+ 
+Read more
+Retail – Customer churn prediction and retention planning wi...
+
+In retail, retaining premium customers is far more cost-effective than acquiring new ones.
+
+ 
+Read more
+
+Corporate Address
+
+INS 701, Urbtech Trade Centre, Block B, Sector 132, Noida, Uttar Pradesh 201304
+
+Products
+AgentCORE
+DataCORE
+CORESight
+COREHire
+COREServ
+CORETrack
+Aithra
+About
+Careers
+Contact us
+Services
+Enterprise AI services
+Enterprise application services
+Resource hub
+AI trends
+Press releases
+Events
+Blogs
+Customer success stories
+Use cases
+
+Copyright © 2026. All rights reserved.
+
+Privacy policy | Terms of service

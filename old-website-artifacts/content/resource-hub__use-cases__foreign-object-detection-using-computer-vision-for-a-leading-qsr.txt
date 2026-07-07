@@ -1,0 +1,82 @@
+URL: https://www.coreops.ai/resource-hub/use-cases/foreign-object-detection-using-computer-vision-for-a-leading-qsr
+TITLE: Foreign Object Detection in Dough Balls | Computer Vision for QSR
+
+CoreOps.AI edge
+
+About
+
+Products
+
+Services
+
+Resource hub
+Contact us
+Enquire now
+Foreign object detection using computer vision for a leading QSR
+
+To solve for
+Approximately 2.5 to 3 lakh dough balls are prepared daily at one of the commissaries and shipped to
+restaurants. There are 11 such commissaries and 1800+ stores. Plastic trays are used to carry the dough balls.
+Numerous complaints received from restaurants. Issues include trays not being clean, incorrect counts of
+dough balls, incorrect sizes, and dough balls containing black particles, plastic, or other foreign materials.
+Trays with incorrect counts lead to shortages at the stores. If the store team does not notice the defects, then
+defective pizzas is delivered to customers.
+Solution
+Built a hardware & software computer vision system that is placed over the conveyor belt that can visually inspects the dough balls in the tray moving at a very high speed.
+Checks doughball size, count, sticking together, dough residue, black particles, nuts, threads, etc.
+For operator, defected tray image is shown on big screen along with alarm.
+Benefits
+Defects reduced from approx. 1600-1800 per SCC to around 700-800.
+Training & quality team remotely audit the dough ball without going to SCC.
+Store complaints reduced by 30%-40%.
+Due to each tray images on website, team can perform defect analysis.
+Tray tracking is now possible for which RFID expensive solution was planned.
+Related posts
+AutoPartsCo – Predictive maintenance & spare part planning w...
+
+For manufacturers, unplanned downtime is the enemy of efficiency.
+
+ 
+Read more
+PharmaCo – Demand forecasting & promo planning with AgentCOR...
+
+In a highly competitive pharma market, accurate demand planning...
+
+ 
+Read more
+Retail – Customer churn prediction and retention planning wi...
+
+In retail, retaining premium customers is far more cost-effective than acquiring new ones.
+
+ 
+Read more
+
+Corporate Address
+
+INS 701, Urbtech Trade Centre, Block B, Sector 132, Noida, Uttar Pradesh 201304
+
+Products
+AgentCORE
+DataCORE
+CORESight
+COREHire
+COREServ
+CORETrack
+Aithra
+About
+Careers
+Contact us
+Services
+Enterprise AI services
+Enterprise application services
+Resource hub
+AI trends
+Press releases
+Events
+Blogs
+Customer success stories
+Use cases
+
+Copyright © 2026. All rights reserved.
+
+Privacy policy | Terms of service

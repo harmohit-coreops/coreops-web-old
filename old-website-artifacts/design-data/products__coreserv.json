@@ -1,0 +1,995 @@
+{
+  "meta": {
+    "title": "COREServ | Cloud-Based Service Management System for Businesses",
+    "description": "Discover COREServ, a cloud-based service management solution with SAP integration. Streamline workflows, boost efficiency, and improve customer support quality",
+    "ogTitle": "COREServ | Cloud-Based Service Management System for Businesses",
+    "ogImage": "https://backend.coreops.ai/wp-content/uploads/2025/06/logo.svg",
+    "h1": "Transforming service workflows for modern teams",
+    "lang": "en",
+    "viewportWidth": 1440,
+    "scrollHeight": 6339
+  },
+  "vars": {
+    "--coreops-primary": "#19369D",
+    "--coreops-primary-dark": "#1e40af",
+    "--coreops-secondary": "#f0f7ff",
+    "--coreops-text": "#1f2937",
+    "--coreops-border": "#e5e7eb",
+    "--coreops-success": "#10b981"
+  },
+  "headings": {
+    "h1": {
+      "tag": "h1",
+      "text": "Transforming service workflows for modern teams",
+      "fontFamily": "helvetica_neue_light",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "lineHeight": "48px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgba(255, 255, 255, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "20px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    "h2": {
+      "tag": "h2",
+      "text": "Discover COREServ: Your all-in-one service management solution",
+      "fontFamily": "helvetica_neue_light",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "lineHeight": "48px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgba(255, 255, 255, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "1.6px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    "h3": {
+      "tag": "h3",
+      "text": "Why choose COREServ?",
+      "fontFamily": "helvetica_neue_light",
+      "fontSize": "40px",
+      "fontWeight": "500",
+      "lineHeight": "48px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgba(255, 255, 255, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "25px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    "h4": {
+      "tag": "h4",
+      "text": "Smarter scheduling",
+      "fontFamily": "helvetica_neue_light",
+      "fontSize": "26px",
+      "fontWeight": "500",
+      "lineHeight": "31.2px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(13, 28, 79)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "15px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    "h5": {
+      "tag": "h5",
+      "text": "Products",
+      "fontFamily": "helvetica_neue_light",
+      "fontSize": "22px",
+      "fontWeight": "500",
+      "lineHeight": "26.4px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(19, 41, 118)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "20px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    "h6": null
+  },
+  "paragraph": {
+    "tag": "p",
+    "text": "About",
+    "fontFamily": "helvetica_neue_thin",
+    "fontSize": "17px",
+    "fontWeight": "400",
+    "lineHeight": "25.5px",
+    "letterSpacing": "1px",
+    "textTransform": "none",
+    "color": "rgb(13, 28, 79)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "padding": "0px",
+    "borderRadius": "0px"
+  },
+  "buttons": [
+    {
+      "tag": "a",
+      "text": "",
+      "fontFamily": "helvetica_neue_thin",
+      "fontSize": "18px",
+      "fontWeight": "400",
+      "lineHeight": "27px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "div",
+      "text": "View details",
+      "fontFamily": "helvetica_neue_thin",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(13, 28, 79)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "div",
+      "text": "View details",
+      "fontFamily": "helvetica_neue_thin",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(13, 28, 79)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "div",
+      "text": "View details",
+      "fontFamily": "helvetica_neue_thin",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(13, 28, 79)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "div",
+      "text": "View details",
+      "fontFamily": "helvetica_neue_thin",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(13, 28, 79)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "div",
+      "text": "View details",
+      "fontFamily": "helvetica_neue_thin",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(13, 28, 79)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "div",
+      "text": "View details",
+      "fontFamily": "helvetica_neue_thin",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(13, 28, 79)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    },
+    {
+      "tag": "div",
+      "text": "View details",
+      "fontFamily": "helvetica_neue_thin",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "1px",
+      "textTransform": "none",
+      "color": "rgb(13, 28, 79)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "marginTop": "0px",
+      "marginBottom": "0px",
+      "padding": "0px",
+      "borderRadius": "0px"
+    }
+  ],
+  "linkSample": {
+    "tag": "a",
+    "text": "",
+    "fontFamily": "helvetica_neue_thin",
+    "fontSize": "18px",
+    "fontWeight": "400",
+    "lineHeight": "27px",
+    "letterSpacing": "1px",
+    "textTransform": "none",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "padding": "0px",
+    "borderRadius": "0px"
+  },
+  "containers": [
+    {
+      "tag": "div",
+      "cls": "container",
+      "maxWidth": "1320px",
+      "width": 1320,
+      "pl": "12px",
+      "pr": "12px",
+      "pt": "0px",
+      "pb": "0px"
+    },
+    {
+      "tag": "div",
+      "cls": "container",
+      "maxWidth": "1320px",
+      "width": 1320,
+      "pl": "12px",
+      "pr": "12px",
+      "pt": "0px",
+      "pb": "0px"
+    },
+    {
+      "tag": "div",
+      "cls": "container",
+      "maxWidth": "1320px",
+      "width": 1320,
+      "pl": "12px",
+      "pr": "12px",
+      "pt": "0px",
+      "pb": "0px"
+    },
+    {
+      "tag": "div",
+      "cls": "container",
+      "maxWidth": "1320px",
+      "width": 1320,
+      "pl": "12px",
+      "pr": "12px",
+      "pt": "0px",
+      "pb": "0px"
+    },
+    {
+      "tag": "div",
+      "cls": "container",
+      "maxWidth": "1320px",
+      "width": 1320,
+      "pl": "12px",
+      "pr": "12px",
+      "pt": "0px",
+      "pb": "0px"
+    },
+    {
+      "tag": "div",
+      "cls": "container",
+      "maxWidth": "1320px",
+      "width": 1320,
+      "pl": "12px",
+      "pr": "12px",
+      "pt": "0px",
+      "pb": "0px"
+    }
+  ],
+  "fonts": [
+    {
+      "family": "helvetica_neue_italic",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "helvetica_neue_bold",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "helvetica_neue_black",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "helvetica_neue_light",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "helvetica_neue_thin",
+      "weight": "100",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "helvetica_neue_medium_italic",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "helvetica_neue_medium",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "helvetica_neue_regular",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "slick",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "bodyBg": "rgb(255, 255, 255)",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "fontFamilies": [
+    [
+      "helvetica_neue_thin",
+      107
+    ],
+    [
+      "helvetica_neue_light",
+      37
+    ]
+  ],
+  "colors": [
+    [
+      "rgb(0, 0, 0)",
+      72
+    ],
+    [
+      "rgb(13, 28, 79)",
+      31
+    ],
+    [
+      "rgb(19, 41, 118)",
+      9
+    ],
+    [
+      "rgb(51, 51, 51)",
+      8
+    ],
+    [
+      "rgb(0, 24, 88)",
+      7
+    ],
+    [
+      "rgba(255, 255, 255, 0)",
+      7
+    ],
+    [
+      "rgb(255, 255, 255)",
+      5
+    ],
+    [
+      "rgb(0, 45, 114)",
+      2
+    ],
+    [
+      "rgb(85, 85, 85)",
+      2
+    ],
+    [
+      "rgb(25, 54, 157)",
+      1
+    ]
+  ],
+  "backgrounds": [
+    [
+      "rgb(255, 255, 255)",
+      17
+    ],
+    [
+      "rgb(249, 249, 249)",
+      14
+    ],
+    [
+      "rgba(255, 255, 255, 0.576)",
+      8
+    ],
+    [
+      "rgba(255, 255, 255, 0.64)",
+      4
+    ],
+    [
+      "rgba(255, 255, 255, 0.55)",
+      4
+    ],
+    [
+      "rgb(0, 0, 0)",
+      3
+    ],
+    [
+      "rgb(19, 41, 118)",
+      3
+    ],
+    [
+      "rgb(25, 54, 157)",
+      2
+    ],
+    [
+      "rgb(197, 205, 231)",
+      2
+    ],
+    [
+      "rgba(255, 255, 255, 0.384)",
+      2
+    ],
+    [
+      "rgb(237, 241, 255)",
+      1
+    ],
+    [
+      "rgba(255, 255, 255, 0)",
+      1
+    ],
+    [
+      "rgb(231, 235, 251)",
+      1
+    ]
+  ],
+  "fontSizes": [
+    [
+      "18px",
+      41
+    ],
+    [
+      "20px",
+      35
+    ],
+    [
+      "17px",
+      14
+    ],
+    [
+      "22px",
+      12
+    ],
+    [
+      "26px",
+      11
+    ],
+    [
+      "16px",
+      10
+    ],
+    [
+      "15px",
+      9
+    ],
+    [
+      "40px",
+      7
+    ],
+    [
+      "15.2px",
+      3
+    ],
+    [
+      "14px",
+      2
+    ]
+  ],
+  "fontWeights": [
+    [
+      "400",
+      95
+    ],
+    [
+      "500",
+      33
+    ],
+    [
+      "700",
+      12
+    ],
+    [
+      "600",
+      4
+    ]
+  ],
+  "borderRadii": [
+    [
+      "15px",
+      19
+    ],
+    [
+      "12px",
+      10
+    ],
+    [
+      "10px",
+      9
+    ],
+    [
+      "8px",
+      7
+    ],
+    [
+      "4px",
+      4
+    ],
+    [
+      "0px 0px 10px 10px",
+      3
+    ],
+    [
+      "20px",
+      2
+    ],
+    [
+      "6px",
+      2
+    ]
+  ],
+  "boxShadows": [
+    [
+      "rgba(0, 0, 0, 0.05) 0px 5px 20px 0px",
+      8
+    ],
+    [
+      "rgba(0, 0, 0, 0.05) 0px 0px 10px 0px",
+      4
+    ],
+    [
+      "rgba(0, 0, 0, 0.05) -4px 4px 6px 0px, rgba(0, 0, 0, 0.05) 4px 4px 6px 0px, rgba(0, 0, 0, 0.04) 0px 6px 8px 0px",
+      3
+    ],
+    [
+      "rgba(0, 0, 0, 0.1) 0px 4px 16px 0px",
+      2
+    ],
+    [
+      "rgba(0, 0, 0, 0.1) 0px 10px 20px 0px",
+      2
+    ],
+    [
+      "rgb(197, 205, 231) 3px 2px 7px 0px",
+      1
+    ]
+  ],
+  "images": [
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/FloatingCTA.png",
+      "alt": "Contact Us",
+      "w": 73,
+      "h": 73
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/logo.svg",
+      "alt": "CoreOps Logo",
+      "w": 171,
+      "h": 67
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/agentcore-header-1.png",
+      "alt": "AgentCORE",
+      "w": 421,
+      "h": 102
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/arw_rgt.png",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/Frame-39833.png",
+      "alt": "CORESight",
+      "w": 420,
+      "h": 102
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/arw_rgt.png",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/Frame-39835.png",
+      "alt": "DataCORE",
+      "w": 420,
+      "h": 102
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/arw_rgt.png",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/corehire-header.png",
+      "alt": "COREHire",
+      "w": 420,
+      "h": 102
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/arw_rgt.png",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/coreserv.png",
+      "alt": "COREServ",
+      "w": 424,
+      "h": 102
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/arw_rgt.png",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/coretrack-header.png",
+      "alt": "CORETrack",
+      "w": 420,
+      "h": 102
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/arw_rgt.png",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/11/AITHRALOGO-header.png",
+      "alt": "Aithra",
+      "w": 420,
+      "h": 102
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/arw_rgt.png",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/12/BellCoreops.gif",
+      "alt": "Bell Icon",
+      "w": 40,
+      "h": 40
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/09/coreserve_.png",
+      "alt": "coreserv Banner Logo",
+      "w": 424,
+      "h": 184
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/09/coreserve_.png",
+      "alt": "coreserv Banner Logo",
+      "w": 424,
+      "h": 184
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/07/agentcore_bnr.png",
+      "alt": "agentcore_bnr",
+      "w": 1469,
+      "h": 826
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/Easy-Planning-Dashboard.svg",
+      "alt": "",
+      "w": 47,
+      "h": 47
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/Real-Time-Map-View.svg",
+      "alt": "Real-time map view",
+      "w": 41,
+      "h": 41
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/Smart-Task-Assignment.svg",
+      "alt": "",
+      "w": 41,
+      "h": 41
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/Mobile-App-for-Technicians.svg",
+      "alt": "",
+      "w": 41,
+      "h": 41
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/Digital-Service-Reports.svg",
+      "alt": "Digital Service Reports",
+      "w": 41,
+      "h": 41
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/Seamless-ERP-Connection.svg",
+      "alt": "",
+      "w": 41,
+      "h": 41
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/Customer-Feedback-Surveys.svg",
+      "alt": "",
+      "w": 41,
+      "h": 41
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/03/Custom-Dashboards.svg",
+      "alt": "",
+      "w": 40,
+      "h": 40
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/down-arrow-backup-2-svgrepo-com.svg",
+      "alt": "",
+      "w": 64,
+      "h": 64
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/Customers.png",
+      "alt": "Example",
+      "w": 639,
+      "h": 350
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/down-arrow-backup-2-svgrepo-com.svg",
+      "alt": "",
+      "w": 64,
+      "h": 64
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/Service-Agents.png",
+      "alt": "Example",
+      "w": 639,
+      "h": 350
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/down-arrow-backup-2-svgrepo-com.svg",
+      "alt": "",
+      "w": 64,
+      "h": 64
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/Manager.png",
+      "alt": "Example",
+      "w": 639,
+      "h": 350
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/down-arrow-backup-2-svgrepo-com.svg",
+      "alt": "",
+      "w": 64,
+      "h": 64
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/Field-Technician.png",
+      "alt": "Example",
+      "w": 639,
+      "h": 350
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/smarter-scheduling-coreserv.svg",
+      "alt": "",
+      "w": 47,
+      "h": 47
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/Mobile-convenience.svg",
+      "alt": "",
+      "w": 47,
+      "h": 47
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/connected-systems-coreserv.svg",
+      "alt": "",
+      "w": 47,
+      "h": 47
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/paperless-efficiency-coreserv.svg",
+      "alt": "",
+      "w": 47,
+      "h": 47
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/quicker-service-coreserv.svg",
+      "alt": "",
+      "w": 47,
+      "h": 47
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2026/04/Happier-customer-coreserv.svg",
+      "alt": "",
+      "w": 47,
+      "h": 47
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/Building-Trust-in-GenAI_-CoreOps.AIs-Commitment-to-Responsible-Enterprise-AI-1-1.png",
+      "alt": "Building trust in GenAI: CoreOps.AI&#8217;s commitment to responsible enterprise AI",
+      "w": 856,
+      "h": 436
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/SAP-migration.png",
+      "alt": "Accelerating SAP S/4HANA data migration with the cockpit",
+      "w": 856,
+      "h": 436
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/Handshake.png",
+      "alt": "form_image",
+      "w": 709,
+      "h": 531
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/06/logo.svg",
+      "alt": "CoreOps Logo",
+      "w": 171,
+      "h": 67
+    },
+    {
+      "src": "https://backend.coreops.ai/wp-content/uploads/2025/05/linkedin_icon.png",
+      "alt": "social-icon-0",
+      "w": 57,
+      "h": 56
+    }
+  ],
+  "navLinks": [
+    {
+      "text": "",
+      "href": ""
+    },
+    {
+      "text": "",
+      "href": "https://www.coreops.ai/"
+    },
+    {
+      "text": "CoreOps.AI edge",
+      "href": "https://www.coreops.ai/coreops-ai-edge"
+    },
+    {
+      "text": "Our story",
+      "href": "https://www.coreops.ai/about"
+    },
+    {
+      "text": "Meet the team",
+      "href": "https://www.coreops.ai/about#team"
+    },
+    {
+      "text": "Careers",
+      "href": "https://www.coreops.ai/careers"
+    },
+    {
+      "text": "2 year milestone",
+      "href": "https://www.coreops.ai/mailer.html"
+    },
+    {
+      "text": "Empowers enterprises to build, train & deploy inte",
+      "href": "https://www.coreops.ai/products/agentcore"
+    },
+    {
+      "text": "With CORESight, you can ask complex business quest",
+      "href": "https://www.coreops.ai/products/coresight"
+    },
+    {
+      "text": "Harmonizes and cleanses data from all sources, pow",
+      "href": "https://www.coreops.ai/products/datacore"
+    },
+    {
+      "text": "An advanced AI-driven recruitment platform designe",
+      "href": "https://www.coreops.ai/products/corehire"
+    },
+    {
+      "text": "A cloud-based, end-to-end service management platf",
+      "href": "https://www.coreops.ai/products/coreserv"
+    },
+    {
+      "text": "A Fiori-based, cloud-enabled solution that digitiz",
+      "href": "https://www.coreops.ai/products/coretrack"
+    },
+    {
+      "text": "Turn enterprise knowledge into instant intelligenc",
+      "href": "https://www.coreops.ai/aithra"
+    },
+    {
+      "text": "Enterprise application services",
+      "href": "https://www.coreops.ai/enterprise-application-services"
+    },
+    {
+      "text": "Enterprise AI services",
+      "href": "https://www.coreops.ai/enterprise-ai-services"
+    },
+    {
+      "text": "Resource hub",
+      "href": "https://www.coreops.ai/resource-hub"
+    },
+    {
+      "text": "Contact us",
+      "href": "https://www.coreops.ai/contact-us"
+    },
+    {
+      "text": "CoreOps.AI edge",
+      "href": "https://www.coreops.ai/coreops-ai-edge"
+    },
+    {
+      "text": "About",
+      "href": "https://www.coreops.ai/products/coreserv#"
+    },
+    {
+      "text": "Products",
+      "href": "https://www.coreops.ai/products/coreserv#"
+    },
+    {
+      "text": "Services",
+      "href": "https://www.coreops.ai/products/coreserv#"
+    },
+    {
+      "text": "Resource hub",
+      "href": "https://www.coreops.ai/resource-hub"
+    },
+    {
+      "text": "Contact us",
+      "href": "https://www.coreops.ai/contact-us"
+    }
+  ],
+  "footerLinks": [],
+  "sectionCount": 1
+}
